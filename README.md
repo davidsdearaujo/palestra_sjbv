@@ -36,6 +36,6 @@ Seguem alguns links úteis, com relação ao conteúdo de minha palestra:
 Dia 2 de novembro (sábado) ocorrerá um workshop, o 1º Flutter BR Online - Flame Workshop.
 Será um evento ONLINE e GRATUITO!
 
-Nesse workshop, Erick Zanardo vai mostrar como desenvolver um game mobile do zero usando flame 🔥❤️ <br/>
+Nesse workshop, Erick Zanardo vai mostrar como desenvolver um game mobile do zero usando flame 🔥❤️ <br/><br/>
 Link para a live: https://youtu.be/ktTkanLHPdE <br/>
 [Link do evento no meetup.com](https://www.meetup.com/pt-BR/flutterbr/events/265989305/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDI3NDFiZTdlLTgxYzMtNDY4Yy04NDVlLTBhNjU5NWNkODI5MA)
