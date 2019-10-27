@@ -30,3 +30,12 @@ Seguem alguns links úteis, com relação ao conteúdo de minha palestra:
     - Site oficial: https://www.2dimensions.com/about-flare
     - Animações públicas:  https://www.2dimensions.com/explore/popular/trending/flare
 
+## Jogos com Flutter
+[Exemplo 1](https://github.com/fireslime/bounce_box)
+
+Dia 2 de novembro (sábado) ocorrerá um workshop, o 1º Flutter BR Online - Flame Workshop.
+Será um evento ONLINE e GRATUITO!
+
+Nesse workshop, Erick Zanardo vai mostrar como desenvolver um game mobile do zero usando flame 🔥❤️
+Link para a live: https://youtu.be/ktTkanLHPdE
+[Link do evento no meetup.com](https://www.meetup.com/pt-BR/flutterbr/events/265989305/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDI3NDFiZTdlLTgxYzMtNDY4Yy04NDVlLTBhNjU5NWNkODI5MA)
